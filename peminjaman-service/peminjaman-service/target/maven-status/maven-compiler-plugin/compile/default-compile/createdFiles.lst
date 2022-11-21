@@ -1,0 +1,7 @@
+com\nadya\peminjaman\controller\PeminjamanController.class
+com\nadya\peminjaman\VO\Anggota.class
+com\nadya\peminjaman\PeminjamanServiceApplication.class
+com\nadya\peminjaman\entity\Peminjaman.class
+com\nadya\peminjaman\VO\ResponseTemplateVO.class
+com\nadya\peminjaman\repository\PeminjamanRepository.class
+com\nadya\peminjaman\service\PeminjamanService.class
